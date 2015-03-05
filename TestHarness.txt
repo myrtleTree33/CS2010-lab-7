@@ -1,0 +1,32 @@
+CS2010 Lab07 Anagrams
+==================================
+
+TONG Haowen Joel
+
+A0108165J
+
+
+## Tests description
+
+- input01 - test for null case, where all words cancel.
+- input02 - test for base case.
+- input03 - test for odd duplicates and same word.
+- input04 - test for all unique words
+- input05 - test for empty input set.
+
+
+
+## Run 
+
+  $ java -jar target/lab07-1.0-SNAPSHOT-jar-with-dependencies.jar in/input01.txt 
+
+
+## Installation
+
+  $ mvn install
+  
+
+## Junit tests
+
+  $ mvn test 
+  
